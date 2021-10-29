@@ -7,11 +7,11 @@
 
 ## I'm figuring out the universe, starting with programming
 
-- 🖥 Currently working on my own theme for VS Code!  
-- 📚 I’m learning everything at the moment  
-- 🏳️‍🌈 He/Him  
-- 🇧🇷 Portuguese  
-- 🇨🇦 English  
+- 🖥 Currently working on my own theme for VS Code!
+- 📚 I’m learning everything at the moment
+- 🏳️‍🌈 He/Him
+- 🇧🇷 Portuguese
+- 🇨🇦 English
 - 🐲 Currently playing lots of D&D
 
 ## Languages and Tools:
@@ -30,7 +30,7 @@
 
 ### Connect with me:
 
-<a href="https://open.spotify.com/user/caiophox?si=10aa854e9ef4494a" target="_blank"><img alt="caiophox | Spotify" src="https://img.shields.io/badge/Spotify-%F0%9F%8E%B5-1DB954"></a>
+<a href="https://open.spotify.com/user/caiophox?si=10aa854e9ef4494a"><img alt="caiophox | Spotify" src="https://img.shields.io/badge/Spotify-%F0%9F%8E%B5-1DB954"></a>
 
 <br />
 <br />
