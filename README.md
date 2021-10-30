@@ -7,18 +7,14 @@
 
 ## I'm figuring out the universe, starting with programming
 
-► 🖥 Currently working on my own theme for VS Code!  
-► 📚 I’m learning everything at the moment  
-► 🏳️‍🌈 He/Him  
-► 🇧🇷 Portuguese  
-► 🇨🇦 English  
-► 🐲 Currently playing lots of D&D
+- 🖥 Currently working on my own theme for VS Code!  
+- 📚 I’m learning everything at the moment  
+- 🏳️‍🌈 He/Him  
+- 🇧🇷 Portuguese  
+- 🇨🇦 English  
+- 🐲 Currently playing lots of D&D
 
-<br />
-
-### Languages and Tools:
-
-![alt text](http://url/to/img.png)
+## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
 
