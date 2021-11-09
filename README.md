@@ -30,6 +30,8 @@
 
 ### Connect with me:
 
+<a href="https://www.codewars.com/users/caiophox"><img alt="codewars banner" src="https://www.codewars.com/users/caiophox/badges/large"></a>
+
 <a href="https://open.spotify.com/user/caiophox?si=10aa854e9ef4494a"><img alt="caiophox | Spotify" src="https://img.shields.io/badge/Spotify-%F0%9F%8E%B5-1DB954"></a>
 
 <br />
