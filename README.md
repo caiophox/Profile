@@ -8,7 +8,7 @@
 ## I'm figuring out the universe, starting with programming
 
 - 🖥 Currently working on my own theme for VS Code!
-- 📚 I’m learning everything at the moment
+- 📚 I’m learning CSS at the moment
 - 🏳️‍🌈 He/Him
 - 🇧🇷 Portuguese
 - 🇨🇦 English
