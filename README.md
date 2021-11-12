@@ -7,14 +7,15 @@
 
 ## I'm figuring out the universe, starting with programming
 
-- 🖥 Currently working on my own theme for VS Code!
+- 🖥 Currently working on varied projects!
 - 📚 I’m learning CSS at the moment
 - 🏳️‍🌈 He/Him
 - 🇧🇷 Portuguese
 - 🇨🇦 English
 - 🐲 Currently playing lots of D&D
 
-## Languages and Tools:
+## Download my custom [VSCode theme!](https://marketplace.visualstudio.com/items?itemName=PhoxPublishings.phoxtheme-darker) 🎴
+### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
 
@@ -33,9 +34,6 @@
 <a href="https://www.codewars.com/users/caiophox"><img alt="codewars banner" src="https://www.codewars.com/users/caiophox/badges/large"></a>
 
 <a href="https://open.spotify.com/user/caiophox?si=10aa854e9ef4494a"><img alt="caiophox | Spotify" src="https://img.shields.io/badge/Spotify-%F0%9F%8E%B5-1DB954"></a>
-
-<br />
-<br />
 
 [linkedin]: https://www.linkedin.com/in/caiophox/
 [instagram]: https://www.instagram.com/caiophox/
